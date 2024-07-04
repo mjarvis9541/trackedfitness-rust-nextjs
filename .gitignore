@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.next/
+.vscode/
+local/
+next-env.d.ts
+node_modules/
+target/
